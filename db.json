@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "MacBook Pro",
+      "category": "Electronics",
+      "price": 159999,
+      "quantity": 10,
+      "status": "Available"
+    },
+    {
+      "id": "2",
+      "name": "Office Chair",
+      "category": "Furniture",
+      "price": 12999,
+      "quantity": 0,
+      "status": "Out of Stock"
+    },
+    {
+      "id": "3",
+      "name": "Samsung Monitor",
+      "category": "Electronics",
+      "price": 24999,
+      "quantity": 12,
+      "status": "Available"
+    },
+    {
+      "id": "4",
+      "name": "React Complete Guide",
+      "category": "Books",
+      "price": 799,
+      "quantity": 25,
+      "status": "Available"
+    },
+    {
+      "id": "5",
+      "name": "Running Shoes",
+      "category": "Clothing",
+      "price": 2999,
+      "quantity": 8,
+      "status": "Available"
+    }
+  ]
+}
